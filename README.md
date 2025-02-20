@@ -1,6 +1,7 @@
 <h1> Full Stack App with Node.js & Express </h1>
 
-![image](https://github.com/user-attachments/assets/4abf70b1-4881-4593-bfd1-70926708d28f)
+<img src="https://github.com/user-attachments/assets/4abf70b1-4881-4593-bfd1-70926708d28f" width="300" height="200">
+
 
 📌<h2> Overview </h2>
 
