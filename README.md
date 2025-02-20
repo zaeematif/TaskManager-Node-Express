@@ -1,6 +1,6 @@
 <h1> Full Stack App with Node.js & Express </h1>
 
-<img src="https://github.com/user-attachments/assets/4abf70b1-4881-4593-bfd1-70926708d28f" width="600" height="800">
+<img src="https://github.com/user-attachments/assets/4abf70b1-4881-4593-bfd1-70926708d28f" width="750" height="800">
 
 
 📌<h2> Overview </h2>
