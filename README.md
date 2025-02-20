@@ -1,6 +1,6 @@
 Full Stack App with Node.js & Express
 
-📌 Overview
+📌<h2> Overview </h2>
 
 This is a full-stack web application built using Node.js and Express.js for the backend, with a frontend powered by Vanilla JavaScript and Vanilla CSS. The app utilizes Axios for API communication and is structured using JavaScript modules for better organization. MongoDB, along with the Mongoose library, is used as the database.
 
