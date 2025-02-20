@@ -2,6 +2,7 @@ const express = require("express");
 const tasksRoutes = require("./routes/tasks");
 const connectDB = require("./db/connect");
 require('dotenv').config()
+const notFound = require('./middleware/not-found')
 
 const app = express();
 
@@ -10,7 +11,13 @@ app.use(express.static('./public'));
 app.use(express.json()); // - makes data available in the req.body
 
 //ROUTES
+
+//tasks
 app.use("/api/v1/tasks", tasksRoutes);
+
+//404 - response
+app.use(notFound)
+
 
 
 const start = async () => {
